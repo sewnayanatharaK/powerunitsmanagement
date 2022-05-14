@@ -14,11 +14,13 @@
 <script src="Components/jquery-3.2.1.min.js"></script>
 <script src="Components/Unit.js"></script>
 </head>
+<hr></hr>
 <body>
 	<div class = "container">
 		<div class = "row">
 				<div class = "col-6">
 					<h1>Power Units Management</h1>
+					<hr></hr>
 	
 	<form id="formItem" name="formItem" method="post" action="unit.jsp">
 		 Unit code:
@@ -79,7 +81,7 @@
   </div>
   </div>
   
-
+<hr></hr>
 
 </body>
 </html> 
